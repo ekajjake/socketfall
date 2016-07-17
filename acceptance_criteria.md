@@ -6,15 +6,14 @@ Verbal description of requirements for MVP.
 
 ### Vocab
 
-`Session` the WebSocket connection that should remain active as long as there are users
-
-`Team` users are either on the Spy team or the Non-Spies
+- `Session` the WebSocket connection that should remain active as long as there are users
+- `Team` users are either on the Spy team or the Non-Spies
 
 ### 1. King (host)
 
 The king needs to be able to create a game, receive a code for distribution to the rest of the players, and then be sent to a lobby.
 
-1. King can visit splash page and click 'New Game' (0% / 0% / Josh)
+1. King can visit splash page and click 'New Game'  `(0% / 0% / Josh)`
 2. King can enter a name for the game and click 'Create Game'
 3. King gets sent to the lobby for the game where they can see a unique invite code
 
