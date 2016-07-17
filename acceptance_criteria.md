@@ -15,7 +15,8 @@ The King needs to be able to create a game, receive a code for distribution to t
 
 1. King can visit splash page and click 'New Game'
 2. King can enter their name and click 'Create Game'
-3. King gets sent to the lobby for the game where they can see a unique invite code
+  1. King gets sent to the lobby for the game where they can see a unique invite code
+  2. King can return to splash screen via 'Cancel' button
 
 ### 2. Plebeian (friend of host)
 
@@ -23,8 +24,9 @@ The rest of the host's friends need to be able to join an existing game given a 
 
 1. Pleb can visit splash page and click 'Join Game'
 2. Pleb can enter their name, and access code, and click 'Join Game'
-3. If code is valid, Pleb gets sent to the lobby
-4. If code is not valid, Pleb receives try again message
+  1. If code is valid, Pleb gets sent to the lobby
+  2. If code is not valid, Pleb receives try again message
+  3. Pleb can return to splash screen via 'Cancel' button
 
 ### 3. Everyone (Lobby)
 
