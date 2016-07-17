@@ -7,6 +7,7 @@ Verbal description of requirements for MVP.
 ### Vocab
 
 `Session` the WebSocket connection that should remain active as long as there are users
+
 `Team` users are either on the Spy team or the Non-Spies
 
 ### 1. King (host)
